@@ -1,0 +1,52 @@
+.font1{
+	font-family: Garamond;
+	font-size: 24pt;
+	font-weight: bold;
+	line-height: 10%;
+}
+
+.font2{
+	font-family: Times;
+	font-size: 4pt;
+	font-weight: normal;
+	line-height: 30%;
+}
+
+.font3{
+	font-family: Arial;
+	font-size: 15pt;
+	font-weight: bolder;
+	line-height: 50%;
+
+}
+
+h1{
+	font-family: Verdana;
+	font-size: bold;
+	font-weight: 79pt;
+	line-height: 200px;
+	color: blue;
+}
+
+h2{
+	font-family: Lucida;
+	font-size: 99pt;
+	font-weight: lighter;
+	line-height: 395%;
+}
+
+h3{
+	font-family: Georgia;
+	font-size:;
+	font-weight:;
+	line-height:;
+	color: red;
+}
+
+h4{
+	font-family:;
+	font-size:;
+	font-weight:;
+	line-height:;
+}
+
